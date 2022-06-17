@@ -1,0 +1,7 @@
+1. только практика
+2. https://learngitbranching.js.org/?locale=ru_RU
+3. git flow
+4. sourcetree, gitkraken, tortoisegit
+5. процесс codereview в gitlab
+6. gitlab, github
+7. pipelines (ci cd)
