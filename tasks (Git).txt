@@ -6,6 +6,7 @@
 6. gitlab, github
 7. pipelines (ci cd)
 
-фича 1
+FEATURE 1 HF 1
+
 5. с помощью git flow создать новую ветку (внести изменения) и запушить ее
 6. запушить фича ветку в develop
